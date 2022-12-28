@@ -1,0 +1,28 @@
+site_name: Linear Models for Astronomers
+nav:
+    - Introduction: 0-1_introduction.ipynb
+    - Writing Down Linear Models: 1-1_writing-down-linear-models-Copy1.ipynb
+    - Fitting Linear Models: 1-2_fitting-linear-models-Copy1.ipynb
+    - Real Life Linear Models: 1-3_real-life-linear-models.ipynb
+    - Advanced Real Life Linear Models: 1-4_real-life-linear-models-advanced.ipynb
+    - High Dimensional Real Life Linear Models: 1-5-real-life-linear-models-ND.ipynb
+    - Adding Noise: 2-1_adding_noise.ipynb
+    
+theme:
+  name: "material"
+  icon:
+    logo: material/chart-timeline-variant-shimmer
+  palette:
+    scheme: default
+    primary: blue grey
+    accent: black
+repo_url: https://github.com/christinahedges/BuildingFastLinearModels
+plugins:
+  - search
+  - mkdocs-jupyter:
+      execute: False
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
