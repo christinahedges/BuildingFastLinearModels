@@ -4,9 +4,10 @@ nav:
     - Writing Down Linear Models: 1-1_writing-down-linear-models-Copy1.ipynb
     - Fitting Linear Models: 1-2_fitting-linear-models-Copy1.ipynb
     - Real Life Linear Models: 1-3_real-life-linear-models.ipynb
-    - Advanced Real Life Linear Models: 1-4_real-life-linear-models-advanced.ipynb
-    - High Dimensional Real Life Linear Models: 1-5-real-life-linear-models-ND.ipynb
+    - High Dimensional Real Life Linear Models: 1-4-real-life-linear-models-ND.ipynb
+    - Advanced Real Life Linear Models: 1-5_real-life-linear-models-advanced.ipynb
     - Adding Noise: 2-1_adding_noise.ipynb
+    - Making Periodograms: 3-1_classical-periodograms.ipynb
     
 theme:
   name: "material"
