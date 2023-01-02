@@ -1,16 +1,32 @@
 site_name: Linear Models for Astronomers
 nav:
-    - Introduction: 0-1_introduction.ipynb
-    - Writing Down Linear Models: 1-1_writing-down-linear-models.ipynb
-    - Fitting Linear Models: 1-2_fitting-linear-models.ipynb
-    - Real Life Linear Models: 1-3_real-life-linear-models.ipynb
-    - High Dimensional Real Life Linear Models: 1-4-real-life-linear-models-ND.ipynb
-    - Advanced Real Life Linear Models: 1-5_real-life-linear-models-advanced.ipynb
-    - Adding Noise: 2-1_adding_noise.ipynb
-    - Making Periodograms: 3-1_classical-periodograms.ipynb
+    - About: index.md
+    - "Section 1: Basic Models":
+      - Introduction: 0-1_introduction.ipynb
+      - Writing Down Linear Models: 1-1_writing-down-linear-models.ipynb
+      - Fitting Linear Models: 1-2_fitting-linear-models.ipynb
+    - "Section 2: Applying To Astronomy":
+      - Real Life Linear Models: 2-1_real-life-linear-models.ipynb
+      - High Dimensional Real Life Linear Models: 2-2-real-life-linear-models-ND.ipynb
+      - Advanced Real Life Linear Models: 2-3_real-life-linear-models-advanced.ipynb
+    - "Section 3: Including Uncertainties":
+      - Adding Noise: 3-1_adding_noise.ipynb
+    - "Section 4: Extras":
+      - Making Periodograms: 4-1_classical-periodograms.ipynb
     
 theme:
   name: "material"
+  features:
+  - navigation.footer
+  - navigation.indexes
+  - navigation.sections
+  - navigation.tabs
+  - navigation.top
+  - navigation.tracking
+  - search.highlight
+  - search.share
+  - search.suggest
+  - toc.follow
   icon:
     logo: material/chart-timeline-variant-shimmer
   palette:
