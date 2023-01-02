@@ -1,4 +1,5 @@
 # Building Fast Linear Models for Astronomical Noise and Signal
+Christina Hedges, 2022
 
 **What is this?**
 
