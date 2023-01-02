@@ -1,7 +1,7 @@
 # Building Fast Linear Models for Astronomical Noise and Signal
 
 
-<a href="https://github.com/christinahedges/BuildingFastLinearModels/actions/workflows/tests.yml"><img src="https://github.com/christinahedges/BuildingFastLinearModels/workflows/pytest/badge.svg" alt="Test status"/></a> 
+<a href="https://github.com/christinahedges/BuildingFastLinearModels/actions/workflows/deploy.yml"><img src="https://github.com/christinahedges/BuildingFastLinearModels/workflows/deploy/badge.svg" alt="Deploy status"/></a> 
 [![Under Development](https://img.shields.io/badge/Status-Under%20Development-red)](https://christinahedges.github.io/BuildingFastLinearModels)
 
 **What is this?**
