@@ -1,8 +1,8 @@
 site_name: Linear Models for Astronomers
 nav:
     - Introduction: 0-1_introduction.ipynb
-    - Writing Down Linear Models: 1-1_writing-down-linear-models-Copy1.ipynb
-    - Fitting Linear Models: 1-2_fitting-linear-models-Copy1.ipynb
+    - Writing Down Linear Models: 1-1_writing-down-linear-models.ipynb
+    - Fitting Linear Models: 1-2_fitting-linear-models.ipynb
     - Real Life Linear Models: 1-3_real-life-linear-models.ipynb
     - High Dimensional Real Life Linear Models: 1-4-real-life-linear-models-ND.ipynb
     - Advanced Real Life Linear Models: 1-5_real-life-linear-models-advanced.ipynb
